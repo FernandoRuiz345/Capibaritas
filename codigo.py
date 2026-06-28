@@ -102,36 +102,3 @@ print(amazom(producto).datos())
 
 # CREACION DEL ARCHIVO CSV CON LOS DATOS DEL PRODUCTO
 amazom(producto).guardar_csv()
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

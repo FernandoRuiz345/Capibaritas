@@ -1,38 +1,16 @@
 # Capibaritas
-Problema
 
-Analizar la variación diaria de precios de productos agrícolas.
-https://www.fao.org/faostat/en/#home
-¿Tiene API?
-Sí.
+| Integrante | Usuario GitHub |Codigo|
+|---|---|---|
+| Flavio Vila| vilacordova2005-sketch |  |
+| Fernando Jose Ruiz Macedo | FernandoRuiz345 | 20211830 |
+| Juan Carlos Tapia Casa | JuanTap2000 |  |
+|  | Bisitte20 |
+|  | Alejandra-1805 |
 
-Información disponible:
+## 1. Tema : Desicion de compra en amazon
 
-Producción agrícola
-Rendimiento
-Exportaciones
-Importaciones
-Uso de fertilizantes
-Cultivos
-Ganadería
-
-Proyecto posible:
-
-Analizar la producción agrícola de diferentes países y visualizar tendencias de los últimos años.
-
-Tecnologías:
-
-API
-pandas
-matplotlib
-POO
-
-
-
-
-
-
-
+Amazon ofrece una amplia variedad de productos en su plataforma, lo que permite a los usuarios acceder a un catálogo extenso y diversificado. El objetivo principal es brindar al comprador una visión general completa del producto que desea adquirir, como por ejemplo, los "parlantes Bluetooth". Esta categoría de productos presenta precios que oscilan entre los S/50 y S/200, con la posibilidad de encontrar ofertas especiales que reduzcan aún más el costo. Además, es importante considerar la disponibilidad de colores y la opción de acceder directamente al enlace de compra para agilizar el proceso de adquisición.
 
 
 
