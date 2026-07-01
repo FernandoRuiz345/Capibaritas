@@ -11,7 +11,10 @@
 
 Amazon ofrece una amplia variedad de productos en su plataforma, lo que permite a los usuarios acceder a un catálogo extenso y diversificado. El objetivo principal es brindar al comprador una visión general completa del producto que desea adquirir, como por ejemplo, los "parlantes Bluetooth". Esta categoría de productos presenta precios que oscilan entre los S/50 y S/200, con la posibilidad de encontrar ofertas especiales que reduzcan aún más el costo. Además, es importante considerar la disponibilidad de colores y la opción de acceder directamente al enlace de compra para agilizar el proceso de adquisición.
 
+## link de grabacion
 
+
+https://drive.google.com/drive/u/0/folders/1s1D2R149ZloQqTqZE46qgDdbjq-O43Fy
 
 
 
