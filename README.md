@@ -5,7 +5,6 @@
 | Flavio Vila| vilacordova2005-sketch | 20240739 |
 | Fernando Jose Ruiz Macedo | FernandoRuiz345 | 20211830 |
 | Juan Carlos Tapia Casa | JuanTap2000 | 20221418 |
-| Bisitte Milagross Becerra Jesus | Bisitte20 | 20231480 | 
 | Alejandra Margoth Arroyo Arruz | Alejandra-1805 | 20211805
 
 ## 1. Tema : Desicion de compra en amazon
